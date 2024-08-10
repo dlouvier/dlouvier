@@ -17,3 +17,4 @@ If you've landed on my GitHub profile, chances are you're curious about the proj
 - [Addressing Memory issues with Java apps in Kubernetes](https://medium.com/mossfinance/understanding-kubernetes-exit-code-137-a-silent-killer-of-java-apps-b4015ee128e1)
 - [Zero Trust Architecture presentation at PlatformCon 2023](https://www.youtube.com/watch?v=DMTUD86eDMA) - [repo](https://github.com/dlouvier/zero-trust-architecture-lab)
 - [Data center operations automation](https://opensource.saucelabs.com/blog/ubuntu_autoinstall_and_iac_data_centers_operations/)
+- [Creating a Google Organization for testing purposes](https://medium.com/@dlouvier/how-to-create-a-google-cloud-organization-using-cloud-identity-for-free-step-by-step-guide-e72862d5cf58?sk=463f56e55f955c74f1a51f50eac9bf8b)
