@@ -2,7 +2,7 @@ Hello there! 🌟
 
 My name is Daniel Louvier, and I'm a versatile SRE / DevOps / Platform Engineer. (I’ve worn so many hats that you can pick your favorite! ;D)
 
-Recently, I’ve been focusing on Google Cloud Platform (GCP), but I also have extensive experience with AWS and Azure. I'm a [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/4cab5a93-e22d-4286-9208-493f0c3adc5d) and a [Certified Kubernetes Application Developer](https://www.credly.com/badges/cc81248c-ce2f-44d0-a58a-a02e5a7bb944). My expertise extends to Infrastructure as Code with tools like Terraform and Pulumi, and observability platforms such as the Prometheus+Grafana stack and Datadog. I’m particularly interested in security and cost optimization.
+Recently, I’ve been focusing on Google Cloud Platform (GCP), but I also have extensive experience with AWS and Azure. I'm a [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/4cab5a93-e22d-4286-9208-493f0c3adc5d), [Certified Kubernetes Application Developer](https://www.credly.com/badges/cc81248c-ce2f-44d0-a58a-a02e5a7bb944) and [Certified Kubernetes Security Specialist(CKS)](https://www.credly.com/badges/f20977b4-7cb6-4a85-a9cc-bec54045eb7b) My expertise extends to Infrastructure as Code with tools like Terraform and Pulumi, and observability platforms such as the Prometheus+Grafana stack and Datadog. I’m particularly interested in security and cost optimization.
 
 If you've landed on my GitHub profile, chances are you're curious about the projects and code I've been crafting. Here’s a quick look at what you’ll find:
     
